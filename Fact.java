@@ -9,5 +9,6 @@ fact=fact*i;
 i--;
 }
   System.out.println(fact); 
+  System.out.println("hello world");
 }
 }
