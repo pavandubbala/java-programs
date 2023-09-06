@@ -8,8 +8,7 @@ while(i<=n)
 fact=fact*i;
 i--;
 }
-  System.out.println(fact); 
-  system
+  System.out.println(fact);
   System.out.println("hello world");
 }
 }
